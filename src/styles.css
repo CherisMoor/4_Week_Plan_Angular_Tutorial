@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+h1{
+    color:grey;
+}
+h2{
+    color:aliceblue;
+}
+h3{
+    color:blue
+}
+h4{
+    color:gray
+}
+h5{
+    color:blue;
+}
+.navbar-brand{
+    background-color:rgb(102, 3, 28);
+    color:rgb(189, 189, 6);
+}
